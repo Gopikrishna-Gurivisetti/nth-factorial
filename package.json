@@ -1,0 +1,24 @@
+{
+  "name": "nth-factorial",
+  "version": "1.0.2",
+  "description": "factorial of given number",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopikrishna-Gurivisetti/nth-factorial.git"
+  },
+  "keywords": [
+    "factorial",
+    "nth-factorial"
+  ],
+  "author": "Gopikrishna Gurivisetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopikrishna-Gurivisetti/nth-factorial/issues"
+  },
+  "homepage": "https://github.com/Gopikrishna-Gurivisetti/nth-factorial#readme"
+}
