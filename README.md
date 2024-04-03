@@ -4,6 +4,9 @@ npm install nth-factorial
 ```
 
 ## Import
+```bash
+.cjs file extension
+```
 ```javascript
 const factorial = require('nth-factorial');
 ```
